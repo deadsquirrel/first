@@ -1,6 +1,6 @@
-#!/usr/bin/env/ python3
+#!/usr/bin/env python3
 
 print("Content-type: text/html")
 print()
 print("<h1>Hello world!</h1>")
-print "<p>AGAIN!!! ! ! ! ! !"
+print ("<p>AGAIN!!! ! ! ! ! !</p>")
